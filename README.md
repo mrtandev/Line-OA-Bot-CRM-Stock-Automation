@@ -1,13 +1,8 @@
+# คู่มือการติดตั้ง CRM-AI
+
 <p align="center">
-  <h2>คู่มือการติดตั้ง CRM-AI (Online Viewer)</h2>
+  <img width="613" height="802" alt="image" src="https://github.com/user-attachments/assets/ee913ea3-2518-40a3-a50a-3952c6c459f9" /> 
 </p>
 
-<div align="center">
-  <iframe 
-    src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/mrtandev/Line-OA-Bot-CRM-Stock-Automation/main/crm-ai-installation-manual.pdf&embedded=true" 
-    style="width:100%; height:800px; max-width:1000px;" 
-    frameborder="0"
-  ></iframe>
-</div>
+## [คลิกที่นี่เพื่อดูคู่มือติดตั้ง CRM-AI (PDF) โดยตรง](crm-ai-installation-manual.pdf)
 
-**หมายเหตุ:** หากกรอบด้านบนไม่แสดงผลสมบูรณ์ คุณสามารถ <a href="https://github.com/mrtandev/Line-OA-Bot-CRM-Stock-Automation/blob/main/crm-ai-installation-manual.pdf">คลิกที่นี่เพื่อเปิดดูไฟล์ PDF โดยตรง</a>
